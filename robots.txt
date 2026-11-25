@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docling.agegnehutech.com.et/sitemap.xml

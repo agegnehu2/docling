@@ -1,3 +1,7 @@
+# docling — Agegnehu Tech
+
+> Engineered with Full SEO, JSON-LD Schema, Privacy, About, Disclaimer & Contact Pages by **Agegnehu Tech** (MIT Upstream: `docling-project/docling`)
+
 <p align="center">
   <a href="https://github.com/docling-project/docling">
     <img loading="lazy" alt="Docling" src="https://github.com/docling-project/docling/raw/main/docs/assets/docling_processing.png" width="100%"/>
